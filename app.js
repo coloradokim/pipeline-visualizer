@@ -1,1 +1,1 @@
-var app = angular.module("PipelinApp", ['ngRoute']);
+var app = angular.module("PipelineApp", ['ngRoute']);
